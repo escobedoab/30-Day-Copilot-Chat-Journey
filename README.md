@@ -59,6 +59,7 @@ The SharePoint import process using the `30 Day Copilot Chat.xlsx` template enab
 | File | Description |
 |------|-------------|
 | `30 Day Copilot Chat.xlsx` | Import-ready SharePoint list template with 30 curated Copilot prompts |
+|'TheGreatCopilotJourneyChatEdition_1_0_0_0'| Import-ready Power Platform solution to auto-send the 30 day Copilot Journey notifications
 
 ---
 
@@ -75,3 +76,15 @@ The SharePoint import process using the `30 Day Copilot Chat.xlsx` template enab
 ## 📣 Questions or Feedback?
 
 Feel free to open an issue or reach out to the project maintainer for support, enhancements, or deployment guidance.
+
+
+
+
+## 👥 Key Contributors
+
+| Name | Role | LinkedIn |
+|------|------|----------|
+| **Anthony Escobedo** | Lead Developer & Automation Architect | https://www.linkedin.com/in/anthony-escobedo |
+| **Kent Tilger** | Business Strategy Lead & Solution Evangelist | https://www.linkedin.com/in/kenttilger |
+
+
