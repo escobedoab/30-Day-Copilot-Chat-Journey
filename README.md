@@ -84,9 +84,13 @@ Feel free to open an issue or reach out to the project maintainer for support, e
 
 ## 👥 Key Contributors
 
-| Name | Role | LinkedIn |
-|------|------|----------|
-| **Anthony Escobedo** | Lead Developer & Automation Architect | https://www.linkedin.com/in/anthony-escobedo |
-| **Kent Tilger** | Business Strategy Lead & Solution Evangelist | https://www.linkedin.com/in/kenttilger |
+| Name                        | **Role**               | LinkedIn Profile                                |
+|-----------------------------|------------------------|--------------------------------------------------|
+| Anthony Escobedo            | **Technical Lead**     | https://www.linkedin.com/in/anthonyescobedo |
+| Kent Tilger                 | **Program Deployment & Adoption** | https://www.linkedin.com/in/kenttilger |
+| Alexander Malkov            | **Scale & Integration** | https://www.linkedin.com/in/alexandermalkov |
+| Smart Kamolratanapiboon     | **Content & Testing**  | https://www.linkedin.com/in/smartk |
+| Charles Teague              | **Quality & Training** | https://www.linkedin.com/in/charlesteague |
+
 
 
